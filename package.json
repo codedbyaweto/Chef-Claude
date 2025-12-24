@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06j1gu",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~04x6/s049osj9cb/head",
+  "name": "Chef-Claude",
+  "description": "A React application that uses AI to generate cooking recipes based on ingredients you have on hand.",
   "scripts": {
     "start": "vite",
     "dev": "vite",
